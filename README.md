@@ -44,3 +44,9 @@ Currently, we support the following sources:
 - YouTube (Beta)
 
 and there are plans to expand this list to also include real time web search and others
+
+## Sample Data
+If you do not want to mess with the SDK but only want to see how your data will look if you download parquet files (through UI or SDK), check the `examples/sample_data` directory.
+
+## LLM Assist
+We also provide a `LLM.md` file that contains vibe coding instructions if you wish to use a co-pilot for this.
